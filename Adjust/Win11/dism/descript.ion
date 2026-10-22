@@ -1,0 +1,3 @@
+dism.enable-features.net-smb-pwsh.bat -- Windows 11 Features (Net Framework 3.5, 4.x, SMB1, powershell, etc.) Install\nÂ
+dism.enable-features.hyper-v.bat -- Enable Hyper-V tools and Features at Windows 11\nÂ
+dism.enable-features.linux.bat -- Enable Windows Subsystem Linux Windows 11 Features\nThen you must Install WSL2 manually!\nÂ

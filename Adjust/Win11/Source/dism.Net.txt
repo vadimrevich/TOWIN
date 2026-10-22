@@ -1,0 +1,7 @@
+/Enable-Feature /FeatureName:NetFx3
+/Enable-Feature /FeatureName:NetFx4
+/Enable-Feature /FeatureName:NetFx4-AdvSrvs
+/Enable-Feature /FeatureName:NetFx4Extended-ASPNET45
+/Enable-Feature /FeatureName:IIS-NetFxExtensibility
+/Enable-Feature /FeatureName:IIS-NetFxExtensibility45
+/Enable-Feature /FeatureName:WAS-NetFxEnvironment

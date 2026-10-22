@@ -1,0 +1,5 @@
+/Enable-Feature /FeatureName:SmbDirect
+/Enable-Feature /FeatureName:SmbWitness
+/Enable-Feature /FeatureName:SMBHashGeneration
+/Enable-Feature /FeatureName:SMB1Protocol
+/Enable-Feature /FeatureName:SMBBW

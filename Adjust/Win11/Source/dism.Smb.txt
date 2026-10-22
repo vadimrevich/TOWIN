@@ -1,0 +1,5 @@
+/Enable-Feature /FeatureName:SmbDirect
+/Enable-Feature /FeatureName:SMB1Protocol
+/Enable-Feature /FeatureName:SMB1Protocol-Client
+/Enable-Feature /FeatureName:SMB1Protocol-Server
+/Enable-Feature /FeatureName:SMB1Protocol-Deprecation

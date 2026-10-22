@@ -1,0 +1,13 @@
+/Enable-Feature /FeatureName:NetFx4ServerFeatures
+/Enable-Feature /FeatureName:NetFx4
+/Enable-Feature /FeatureName:NetFx4Extended-ASPNET45
+/Enable-Feature /FeatureName:IIS-NetFxExtensibility
+/Enable-Feature /FeatureName:IIS-NetFxExtensibility45
+/Enable-Feature /FeatureName:WAS-NetFxEnvironment
+/Enable-Feature /FeatureName:NetworkDeviceEnrollmentServices
+/Enable-Feature /FeatureName:BitLocker-NetworkUnlock
+/Enable-Feature /FeatureName:NetworkLoadBalancingManagementClient
+/Enable-Feature /FeatureName:NetFx3ServerFeatures
+/Enable-Feature /FeatureName:NetFx3
+/Enable-Feature /FeatureName:NetworkLoadBalancingFullServer
+/Enable-Feature /FeatureName:WirelessNetworking

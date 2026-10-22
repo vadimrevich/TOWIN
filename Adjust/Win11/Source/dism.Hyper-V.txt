@@ -1,0 +1,7 @@
+/Enable-Feature /FeatureName:Microsoft-Hyper-V-All
+/Enable-Feature /FeatureName:Microsoft-Hyper-V
+/Enable-Feature /FeatureName:Microsoft-Hyper-V-Tools-All
+/Enable-Feature /FeatureName:Microsoft-Hyper-V-Management-PowerShell
+/Enable-Feature /FeatureName:Microsoft-Hyper-V-Hypervisor
+/Enable-Feature /FeatureName:Microsoft-Hyper-V-Services
+/Enable-Feature /FeatureName:Microsoft-Hyper-V-Management-Clients

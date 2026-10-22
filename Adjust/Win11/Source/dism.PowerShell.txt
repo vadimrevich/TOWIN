@@ -1,0 +1,3 @@
+/Enable-Feature /FeatureName:MicrosoftWindowsPowerShellV2Root
+/Enable-Feature /FeatureName:MicrosoftWindowsPowerShellV2
+/Enable-Feature /FeatureName:Microsoft-Hyper-V-Management-PowerShell

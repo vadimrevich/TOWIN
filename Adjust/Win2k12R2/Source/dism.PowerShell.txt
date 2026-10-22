@@ -1,0 +1,11 @@
+/Enable-Feature /FeatureName:MicrosoftWindowsPowerShellRoot
+/Enable-Feature /FeatureName:MicrosoftWindowsPowerShell
+/Enable-Feature /FeatureName:WindowsPowerShellWebAccess
+/Enable-Feature /FeatureName:ActiveDirectory-PowerShell
+/Enable-Feature /FeatureName:Microsoft-Hyper-V-Management-PowerShell
+/Enable-Feature /FeatureName:iSCSITargetServer-PowerShell
+/Enable-Feature /FeatureName:RemoteAccessPowerShell
+/Enable-Feature /FeatureName:MicrosoftWindowsPowerShellV2
+/Enable-Feature /FeatureName:MicrosoftWindowsPowerShellV3
+/Enable-Feature /FeatureName:MicrosoftWindowsPowerShellISE
+/Enable-Feature /FeatureName:FailoverCluster-PowerShell
